@@ -1,0 +1,13 @@
+.center{
+    display: inline-block;
+}
+.dropdown {
+	position: relative;
+	padding-top: 6px;
+}
+
+.badge-pos {
+	background: red;
+	position: relative;
+	left    : 12%;
+}
